@@ -25,6 +25,13 @@ The artefact is designed to be ran using the files within the primary folder and
 
 
 
+WARNING:
+
+If attempting to run this from github you will need all the external libraries and a Twitter developers account with valid API keys
+Otherwise the program will not work and crash on execution
+
+
+
 Known Issue 1:
 
 when launching the artifact it is recommended to open the code within the idle viewer then run the module,
